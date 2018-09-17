@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">Ім\'я</string>
+    <string name="thankYou">Дякуємо!</string>
+    <string name="total">Сума</string>
+    <string name="quanyityCups">Кількість чашок</string>
+    <string name="withOutChocolate">Без шоколаду</string>
+    <string name="withChocolate">З шоколадом</string>
+    <string name="withOutWipedCream">Без вершків</string>
+    <string name="withWipedCream">З вершками</string>
+    <string name="maxOrder">Максимальне замовлення 100 чашок!</string>
+    <string name="minOrder">Мінімальне замовлення 1 чашка!</string>
+    <string name="quantity">КІЛЬКІСТЬ</string>
+    <string name="pricePerCup">ЦІНА ЗА ЧАШКУ</string>
+    <string name="order">ПІДСУМОК ЗАМОВЛЕННЯ</string>
+    <string name="chocolate">ШОКОЛАД</string>
+    <string name="wipedCream">ВЕРШКИ</string>
+    <string name="topping">ДОДАТКИ</string>
+    <string name="send">НАДІСЛАТИ ЗАМОВЛЕННЯ</string>
+</resources>

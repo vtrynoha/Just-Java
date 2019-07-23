@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
         }
         displayQuantity(quantity);
     }
-
     /**
      * This method is called when the "-" button is clicked.
      */
